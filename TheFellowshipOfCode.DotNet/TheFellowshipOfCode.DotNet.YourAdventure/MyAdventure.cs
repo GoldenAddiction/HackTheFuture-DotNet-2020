@@ -18,7 +18,7 @@ namespace TheFellowshipOfCode.DotNet.YourAdventure
         {
             var party = new Party
             {
-                Name = "My Party",
+                Name = "My Partys",
                 Members = new List<PartyMember>()
             };
 
